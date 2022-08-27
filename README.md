@@ -17,3 +17,6 @@ python MNIST/Save_InfoMaxVAE_CNN.py
 
 - Comparison of loss landscapes for different methods against ***Few-MAX***
 ![alt text](https://github.com/utcsilab/fewmax/blob/master/assets/Loss_landscape.png)
+
+- Comparison of _Top-5_ retrievals for each test input (query) from the memory bank.
+![alt text](https://github.com/utcsilab/fewmax/blob/master/assets/5NNs.png)
