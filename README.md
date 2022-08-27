@@ -12,3 +12,8 @@
 ```bash
 python MNIST/Save_InfoMaxVAE_CNN.py
 ```
+
+# Results
+
+- Comparison of loss landscapes for different methods against ***Few-MAX***
+![alt text](https://github.com/utcsilab/fewmax/blob/master/assets/Loss_landscape.png)
