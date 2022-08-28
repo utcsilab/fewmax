@@ -10,7 +10,7 @@
 
 ### How to run
 ```bash
-python MNIST/Save_InfoMaxVAE_CNN.py
+bash run.sh
 ```
 
 # Results
